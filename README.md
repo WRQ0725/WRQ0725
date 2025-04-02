@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WRQ
-- 👀 I’m interested in GIS、rs and World music
-- 🌱 I’m currently learning GIS and rs in WHU
+- 👀 I’m interested in GIS、RS and World Music
+- 🌱 I’m currently learning GIS and RS in WHU
 - 📫 email me at: m18161598437@163.com
 - 😄 Pronouns: Try to make the world better!
 <!---
